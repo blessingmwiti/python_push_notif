@@ -12,5 +12,5 @@ pip install pushbullet.py
 exit
 Now go to files, click on resolution_reminder.py, and click run. You should receive a notification in your phone.
 To receive daily notifications, go to tasks, type in your desired time to receive the notification, and the link for where the python code is located, for example;
->python3.10/home/your_username/resolution_reminder.py >
+>python3.10/home/your_username/resolution_reminder.py
 That's it, you will receive daily notifications on your device.
